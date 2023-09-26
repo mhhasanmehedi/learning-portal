@@ -1,0 +1,364 @@
+{
+  "users": [
+    {
+      "email": "admin@learnwithsumit.com",
+      "password": "$2a$10$/TDPCTU28mFzKnSsW2pHSu512mpMKxLf8eiPbcTFLSNL87tbZBp3W",
+      "role": "admin",
+      "name": "LWS Admin",
+      "id": 1
+    },
+    {
+      "email": "saad.hasan@learnwithsumit.com",
+      "password": "$2a$10$4iJEmSkM1Dq6WMRb0SuJeeic1SEB9TrH3gw5IT441Adox/ZZXj2Ae",
+      "role": "student",
+      "name": "Saad Hasan",
+      "id": 2
+    },
+    {
+      "email": "akash.ahmed@learnwithsumit.com",
+      "password": "$2a$10$TNsYpL6ffKBrupNNvdJlleJlgIkp1C1xQJCbiv7HAl5Ggs.kucie2",
+      "role": "student",
+      "name": "Akash Ahmed",
+      "id": 3
+    },
+    {
+      "email": "md.salahuddin@learnwithsumit.com",
+      "password": "$2a$10$dcWjzIi4mLAERlWE4nfJW.1/mvC9FXqZU8A2V1rPlsqIrP3kWa8PG",
+      "role": "student",
+      "name": "Mohammad Salahuddin",
+      "id": 4
+    },
+    {
+      "email": "ferdous.shohag@learnwithsumit.com",
+      "password": "$2a$10$IZ6eXNauYSqMhl38Wc46texV2vjGZz.Zl66j7hrnW6ZDSDcMlPWeu",
+      "role": "student",
+      "name": "Ferdous",
+      "id": 5
+    },
+    {
+      "email": "riyadh.vai@learnwithsumit.com",
+      "password": "$2a$10$e4XPY48UpqmAj8teZ2je8.qd5AEk6hWm5PQwDoJsCsE91qlDPJx1G",
+      "role": "student",
+      "name": "Riyadh",
+      "id": 6
+    },
+    {
+      "email": "arif.almas@learnwithsumit.com",
+      "password": "$2a$10$NN4pXB4tBMw.ySrMDPMymepSGDdcvKzx/RjNCrdNTENOFVLWCWGOi",
+      "role": "student",
+      "name": "Arif",
+      "id": 7
+    }
+  ],
+  "videos": [
+    {
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "url": "https://www.youtube.com/embed/dD9O8DnIBj4",
+      "views": "51.2K",
+      "duration": "5:30",
+      "createdAt": "2023-04-07T12:12:54.447Z",
+      "id": 1
+    },
+    {
+      "title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "description": "JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla Tutorial \\nIn this video, I have shown 8 more JavaScript pro tips that will make a JavaScript Developer's life easier.",
+      "url": "https://www.youtube.com/embed/E9_R88eKcBM",
+      "views": "91.2K",
+      "duration": "31:30",
+      "createdAt": "2023-04-07T12:13:42.490Z",
+      "id": 2
+    },
+    {
+      "title": "adsf",
+      "description": "asdfasdf",
+      "url": "asdfasdfasdfasdf",
+      "views": "asdfasdf",
+      "duration": "asdfasdf",
+      "createdAt": "2023-04-07T17:36:10.788Z",
+      "id": 3
+    }
+  ],
+  "assignments": [
+    {
+      "title": "Assignment 1 - Implement Debounce Function",
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "video_id": 1,
+      "totalMark": 100,
+      "id": 1
+    },
+    {
+      "title": "Assignment 2 - Implement Best Practices",
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "video_id": 2,
+      "totalMark": 100,
+      "id": 2
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is a Debounce function in JavaScript?",
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "video_id": 1,
+      "options": [
+        {
+          "id": 1,
+          "isCorrect": true,
+          "option": "A function that is called after a certain time interval"
+        },
+        {
+          "id": 2,
+          "isCorrect": true,
+          "option": "A function that is called after a certain time interval"
+        },
+        {
+          "id": 3,
+          "isCorrect": true,
+          "option": "A function that is called after a certain time interval"
+        },
+        {
+          "id": 4,
+          "isCorrect": false,
+          "option": "A function that is called after a certain time interval"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "question": "Which of the following is an example of a situation where you would use the Debounce function?",
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "video_id": 2,
+      "options": [
+        {
+          "id": 1,
+          "isCorrect": false,
+          "option": "A search bar where the results are displayed as you type."
+        },
+        {
+          "id": 2,
+          "isCorrect": true,
+          "option": "A search bar where the results are displayed as you type."
+        },
+        {
+          "id": 3,
+          "isCorrect": false,
+          "option": "A search bar where the results are displayed as you type."
+        },
+        {
+          "id": 4,
+          "isCorrect": true,
+          "option": "A search bar where the results are displayed as you type."
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "assignmentMark": [
+    {
+      "student_id": 4,
+      "student_name": "Mohammad Salahuddin",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "createdAt": "2023-04-07T11:11:03.514Z",
+      "totalMark": 100,
+      "mark": 90,
+      "repo_link": "github.com/mhhasanmehedi",
+      "status": "published",
+      "id": 3
+    },
+    {
+      "student_id": 4,
+      "student_name": "Mohammad Salahuddin",
+      "assignment_id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2023-04-07T11:11:08.978Z",
+      "totalMark": 100,
+      "mark": 100,
+      "repo_link": "github.com/mhhasanmehedi",
+      "status": "published",
+      "id": 4
+    },
+    {
+      "student_id": 5,
+      "student_name": "Ferdous",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "createdAt": "2023-04-07T11:11:59.521Z",
+      "totalMark": 100,
+      "mark": 100,
+      "repo_link": "github.com/mhhasanmehedi",
+      "status": "published",
+      "id": 5
+    },
+    {
+      "student_id": 5,
+      "student_name": "Ferdous",
+      "assignment_id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2023-04-07T11:12:04.185Z",
+      "totalMark": 100,
+      "mark": 100,
+      "repo_link": "github.com/mhhasanmehedi",
+      "status": "published",
+      "id": 6
+    },
+    {
+      "student_id": 6,
+      "student_name": "Riyadh",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "createdAt": "2023-04-07T11:12:21.564Z",
+      "totalMark": 100,
+      "mark": 50,
+      "repo_link": "github.com/mhhasanmehedi",
+      "status": "published",
+      "id": 7
+    },
+    {
+      "student_id": 6,
+      "student_name": "Riyadh",
+      "assignment_id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2023-04-07T11:12:26.306Z",
+      "totalMark": 100,
+      "mark": 80,
+      "repo_link": "github.com/mhhasanmehedi",
+      "status": "published",
+      "id": 8
+    },
+    {
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "createdAt": "2023-04-07T11:12:53.941Z",
+      "totalMark": 100,
+      "mark": 100,
+      "repo_link": "github.com/mhhasanmehedi",
+      "status": "published",
+      "id": 9
+    },
+    {
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "assignment_id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2023-04-07T11:12:59.657Z",
+      "totalMark": 100,
+      "mark": 0,
+      "repo_link": "github.com/mhhasanmehedi",
+      "status": "published",
+      "id": 10
+    },
+    {
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "assignment_id": 1,
+      "title": "Assignment 1 - Implement Debounce Function",
+      "createdAt": "2023-04-07T11:35:31.677Z",
+      "totalMark": 100,
+      "mark": 100,
+      "repo_link": "github.com/mhhasanmehedi",
+      "status": "published",
+      "id": 11
+    },
+    {
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "assignment_id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2023-04-07T11:44:30.892Z",
+      "totalMark": 100,
+      "mark": 90,
+      "repo_link": "github.com/mhhasanmehedi",
+      "status": "published",
+      "id": 12
+    }
+  ],
+  "quizMark": [
+    {
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "mark": 5,
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "id": 1
+    },
+    {
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "mark": 0,
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "id": 2
+    },
+    {
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "mark": 0,
+      "student_id": 2,
+      "student_name": "Saad Hasan",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "id": 3
+    },
+    {
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "mark": 5,
+      "student_id": 4,
+      "student_name": "Mohammad Salahuddin",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "id": 4
+    },
+    {
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "mark": 0,
+      "student_id": 4,
+      "student_name": "Mohammad Salahuddin",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "id": 5
+    },
+    {
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "mark": 5,
+      "student_id": 6,
+      "student_name": "Riyadh",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "id": 6
+    },
+    {
+      "totalQuiz": 1,
+      "totalMark": 5,
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "mark": 5,
+      "student_id": 6,
+      "student_name": "Riyadh",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "id": 7
+    }
+  ]
+}
